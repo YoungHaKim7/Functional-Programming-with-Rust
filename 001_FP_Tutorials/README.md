@@ -6,3 +6,6 @@
 
 # C++좋은 책
 - [2018년도 책 Ivan Cukic | Functional Programming in C++: How to improve your C++ programs using functional techniques](https://www.amazon.com/Functional-Programming-programs-functional-techniques/dp/B0978262WN/)
+
+- [C++ 함수형 프로그래밍)C++과 함수형 프로그래밍 패러다임의 만남 PDF | 알렉산드루 볼보아카 저 최동훈 역 | 에이콘출판사 2024.12.02.](
+  - 원서 : Hands-On Functional Programming with C++: An effective guide to writing accelerated functional code using C++17 and C++20
